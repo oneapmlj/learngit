@@ -6,4 +6,4 @@ test1
 test2
 +1
 test_branch
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
