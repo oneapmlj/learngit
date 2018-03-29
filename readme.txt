@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 test1
 test2
++1
