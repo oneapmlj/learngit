@@ -8,3 +8,5 @@ test2
 test_branch
 Creating a new branch is quick AND simple.
 fix_bug
+Test stash
+
